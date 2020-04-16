@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\otherProject\\flutter_easyrefresh-2.1.1\\example\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3b29854e9b530fd769ebeec74aee14c4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\otherProject\\flutter_easyrefresh-2.1.1\\example\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3b29854e9b530fd769ebeec74aee14c4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\otherProject\\flutter_easyrefresh-2.1.1\\example\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3b29854e9b530fd769ebeec74aee14c4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\otherProject\\flutter_easyrefresh-2.1.1\\example\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3b29854e9b530fd769ebeec74aee14c4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\otherProject\\flutter_easyrefresh-2.1.1\\example\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3b29854e9b530fd769ebeec74aee14c4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]

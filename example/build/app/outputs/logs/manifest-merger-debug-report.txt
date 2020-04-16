@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+MERGED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:url_launcher_macos] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [moe.feng:AlipayZeroSdk:1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\310c5927b05135c5e351b989d65c9ee1\AlipayZeroSdk-1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4685b357fa512cd3cacaa56a5a12fd03\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e3123af71fe0a2a34c66138961182c9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\03fd8832cc3d6c740ed4ee75206e8469\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\99764f80a3672cc3476ed04cb49a159f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fd4445dcd4332ced31ac1c00c2da6b1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f31ce0389561d3e1d972c8938ae1e56\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bd2509a26b2662b55735cbc48581cf51\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f3bae6757fde1c1abc7172e44df39e2\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\978b2b350ceebd0ace1def9c0d702541\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8ce236166d9115fa1161142f3c7dab4\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11853ec34fcd7f6dc81317d791d54d3b\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\14b408f4a2fbded94a97c646f3e375aa\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ca7cc7e717db4d35ca6da18fb66c6b1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e13596afbbc725ece2338b413b096f3b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\580e9442308df180c7caf49c1ce264f3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f9cef3a2f61eb92e90edbbc7bb3f0c99\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\736a5619668e402621e146ebce3bd054\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3add4eccf46d292f132b180fa5f59cf2\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11e7e228b1360b15df6bbb34a4849eee\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a5cd5be165ee632b783029309d7eccf5\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dfb1c5b1ba00b41bcdf2f04abfac7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c6918f76ae9db498915ff8e65a2a158d\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+	package
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:20:5-53:19
+MERGED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\736a5619668e402621e146ebce3bd054\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\736a5619668e402621e146ebce3bd054\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:22:9-36
+	tools:ignore
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:24:9-60
+	android:icon
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:21:9-57
+activity#com.qingyi.easyrefresh.example.MainActivity
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:25:9-48:20
+	android:launchMode
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:27:13-43
+	android:hardwareAccelerated
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:30:13-47
+	android:windowSoftInputMode
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:29:13-137
+	android:theme
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:35:27-74
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:40:13-42:66
+	android:resource
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:42:17-63
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:41:17-81
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:45:13-47:57
+	android:resource
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:47:17-54
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:46:17-72
+meta-data#flutterEmbedding
+ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:50:9-52:33
+	android:value
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:52:13-30
+	android:name
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:51:13-44
+uses-sdk
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [moe.feng:AlipayZeroSdk:1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\310c5927b05135c5e351b989d65c9ee1\AlipayZeroSdk-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [moe.feng:AlipayZeroSdk:1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\310c5927b05135c5e351b989d65c9ee1\AlipayZeroSdk-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4685b357fa512cd3cacaa56a5a12fd03\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4685b357fa512cd3cacaa56a5a12fd03\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e3123af71fe0a2a34c66138961182c9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e3123af71fe0a2a34c66138961182c9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\03fd8832cc3d6c740ed4ee75206e8469\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\03fd8832cc3d6c740ed4ee75206e8469\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\99764f80a3672cc3476ed04cb49a159f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\99764f80a3672cc3476ed04cb49a159f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fd4445dcd4332ced31ac1c00c2da6b1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fd4445dcd4332ced31ac1c00c2da6b1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f31ce0389561d3e1d972c8938ae1e56\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f31ce0389561d3e1d972c8938ae1e56\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bd2509a26b2662b55735cbc48581cf51\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bd2509a26b2662b55735cbc48581cf51\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f3bae6757fde1c1abc7172e44df39e2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f3bae6757fde1c1abc7172e44df39e2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\978b2b350ceebd0ace1def9c0d702541\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\978b2b350ceebd0ace1def9c0d702541\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8ce236166d9115fa1161142f3c7dab4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8ce236166d9115fa1161142f3c7dab4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11853ec34fcd7f6dc81317d791d54d3b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11853ec34fcd7f6dc81317d791d54d3b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\14b408f4a2fbded94a97c646f3e375aa\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\14b408f4a2fbded94a97c646f3e375aa\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ca7cc7e717db4d35ca6da18fb66c6b1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ca7cc7e717db4d35ca6da18fb66c6b1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e13596afbbc725ece2338b413b096f3b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e13596afbbc725ece2338b413b096f3b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\580e9442308df180c7caf49c1ce264f3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\580e9442308df180c7caf49c1ce264f3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f9cef3a2f61eb92e90edbbc7bb3f0c99\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f9cef3a2f61eb92e90edbbc7bb3f0c99\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\736a5619668e402621e146ebce3bd054\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\736a5619668e402621e146ebce3bd054\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3add4eccf46d292f132b180fa5f59cf2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3add4eccf46d292f132b180fa5f59cf2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11e7e228b1360b15df6bbb34a4849eee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\11e7e228b1360b15df6bbb34a4849eee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a5cd5be165ee632b783029309d7eccf5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a5cd5be165ee632b783029309d7eccf5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dfb1c5b1ba00b41bcdf2f04abfac7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dfb1c5b1ba00b41bcdf2f04abfac7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c6918f76ae9db498915ff8e65a2a158d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c6918f76ae9db498915ff8e65a2a158d\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74

@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.qingyi.easyrefresh.example"
+4    android:versionCode="37"
+5    android:versionName="2.1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12         The INTERNET permission is required for development. Specifically,
+13         flutter needs it to communicate with the running application
+14         to allow setting breakpoints, to provide hot reload, etc.
+15    -->
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:9:5-66
+16-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:9:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:10:5-79
+17-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:11:5-76
+18-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:12:5-75
+19-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:12:22-72
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:13:5-81
+20-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:13:22-78
+21    <!--
+22     io.flutter.app.FlutterApplication is an android.app.Application that
+23         calls FlutterMain.startInitialization(this); in its onCreate method.
+24         In most cases you can leave this as-is, but you if you want to provide
+25         additional functionality it is fine to subclass or reimplement
+26         FlutterApplication and put your custom class here.
+27    -->
+28    <application
+28-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:20:5-53:19
+29        android:name="io.flutter.app.FlutterApplication"
+29-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:21:9-57
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3b29854e9b530fd769ebeec74aee14c4\core-1.0.0\AndroidManifest.xml:22:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:23:9-43
+33        android:label="EasyRefresh" >
+33-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:22:9-36
+34        <activity
+34-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:25:9-48:20
+35            android:name="com.qingyi.easyrefresh.example.MainActivity"
+35-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:26:13-41
+36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+36-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:29:13-137
+37            android:hardwareAccelerated="true"
+37-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:30:13-47
+38            android:launchMode="singleTop"
+38-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:27:13-43
+39            android:theme="@style/LaunchTheme"
+39-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:28:13-47
+40            android:windowSoftInputMode="adjustResize" >
+40-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:31:13-55
+41            <intent-filter>
+41-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:33:13-36:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:34:17-68
+42-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:34:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:35:17-76
+44-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:35:27-74
+45            </intent-filter>
+46
+47            <!-- Specify that the launch screen should continue being displayed -->
+48            <!-- until Flutter renders its first frame. -->
+49            <meta-data
+49-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:40:13-42:66
+50                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+50-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:41:17-81
+51                android:resource="@drawable/launch_background" />
+51-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:42:17-63
+52
+53            <!-- Theme to apply as soon as Flutter begins rendering frames -->
+54            <meta-data
+54-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:45:13-47:57
+55                android:name="io.flutter.embedding.android.NormalTheme"
+55-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:46:17-72
+56                android:resource="@style/LaunchTheme" />
+56-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:47:17-54
+57        </activity>
+58
+59        <meta-data
+59-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:50:9-52:33
+60            android:name="flutterEmbedding"
+60-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:51:13-44
+61            android:value="2" />
+61-->F:\otherProject\flutter_easyrefresh-2.1.1\example\android\app\src\main\AndroidManifest.xml:52:13-30
+62
+63        <activity
+63-->[:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+64            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+64-->[:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+65            android:exported="false"
+65-->[:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+66            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+66-->[:url_launcher] F:\otherProject\flutter_easyrefresh-2.1.1\example\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+67    </application>
+68
+69</manifest>
